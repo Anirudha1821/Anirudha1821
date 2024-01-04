@@ -3,7 +3,6 @@
   <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a61ee5b-e31a-4aa2-a33d-0c904665dc76/dg60not-042c4b23-bc08-46d8-b306-eea62b166d84.gif/v1/fill/w_704,h_704,q_85,strp/a_pikachu_holding_a_gun_and__online_video_cutter_c_by_zeo009_dg60not-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzA0IiwicGF0aCI6IlwvZlwvOGE2MWVlNWItZTMxYS00YWEyLWEzM2QtMGM5MDQ2NjVkYzc2XC9kZzYwbm90LTA0MmM0YjIzLWJjMDgtNDZkOC1iMzA2LWVlYTYyYjE2NmQ4NC5naWYiLCJ3aWR0aCI6Ijw9NzA0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fUCvn7JTCKAhXNNpO6zv_uLts8UoYZmywwuxU_EE5VU"  />
 </div>
 <h2 align="center">Hi 👋! My name is Anirudha</h2>
-<br>
 <p align="center">I am full stack web developer <br>Currently third year computer engineer student at PICT Pune</p>
 
 ###
@@ -107,4 +106,3 @@
 <div align="center"></div>
 <img src="https://raw.githubusercontent.com/Anirudha1821/Anirudha1821/output/snake.svg" alt="Snake animation" />
 </div>
-###
