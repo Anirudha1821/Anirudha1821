@@ -4,7 +4,6 @@
 </div>
 <h2 align="center">Hi 👋! My name is Anirudha</h2>
 <br>
-
 <p align="center">I am full stack web developer <br>Currently third year computer engineer student at PICT Pune</p>
 
 ###
@@ -86,7 +85,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/anirudha-udgirkar-13ab53244" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -105,7 +104,7 @@
 </div>
 
 ###
-
+<div align="center"></div>
 <img src="https://raw.githubusercontent.com/Anirudha1821/Anirudha1821/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
