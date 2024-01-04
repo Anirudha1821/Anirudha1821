@@ -4,7 +4,6 @@
 </div>
 <h2 align="center">Hi 👋! My name is Anirudha</h2>
 <br>
-###
 
 <p align="center">I am full stack web developer <br>Currently third year computer engineer student at PICT Pune</p>
 
